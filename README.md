@@ -1,1 +1,1 @@
-# NYIT-DTSC-630-Group-Project
+NYIT DTSC 630 Group Project
